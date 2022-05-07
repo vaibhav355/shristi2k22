@@ -3,6 +3,7 @@
 ### Instructions
 
 <ol>
+<li>Fork the rope</li>
 <li>Clone it on your device</li>
 <li>Push changes regularly</li>
 <li>You have to submit the link to</li>
