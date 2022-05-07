@@ -2,10 +2,11 @@
 
 ### Instructions
 
-1. Fork the repo
-2. Clone it on your device
-3. Push changes regularly
-4. You have to submit the link to
+<ol>
+<li>Clone it on your device</li>
+<li>Push changes regularly</li>
+<li>You have to submit the link to</li>
+</ol>
 
 ## The Challenge
 
